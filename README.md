@@ -1,5 +1,10 @@
 # -Paid-Animated-Draco
 New FiveM animated Draco
-join the discord to purchase https://discord.gg/NWBnzjT497
 
-<img width="624" height="400" alt="WEAPON_BGC_ANIMATED_DRACO" src="https://github.com/user-attachments/assets/dec1d701-1216-48de-9fa7-b35f3f10d9ea" />
+The Camo moves and glows
+
+For more paid and free FiveM weapons use the links Below Tebex - https://blugocrazy-customz.tebex.io/ Github - https://github.com/BluGoCrazy Discord- https://discord.gg/VpFE4ust2U
+youtube.com/watch?v=dBXMF-a_bOs
+
+
+  <img width="624" height="400" alt="WEAPON_BGC_ANIMATED_DRACO" src="https://github.com/user-attachments/assets/e1ed2da1-0b80-438e-a8c3-4386d31468bf" />
